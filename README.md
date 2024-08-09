@@ -10,7 +10,7 @@ Follow these steps to set up and run the application:
    - [Kotlin](https://kotlinlang.org/docs/home.html)
    - [Java Development Kit (JDK)](https://openjdk.java.net/)
    - [Gradle](https://gradle.org/install/)
-   - see file SETUP-README.md 
+   - see file [SETUP-README.md] (https://github.com/Mole93/Webhook-Sender/blob/main/SETUP-README.md)
 
 2. **Build the Project**:
    - Open your terminal and navigate to the project directory.
