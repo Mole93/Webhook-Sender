@@ -80,6 +80,4 @@ You have successfully installed Java 21, Gradle, and Kotlin using Homebrew on ma
 - If you encounter any issues with the `JAVA_HOME` setting, make sure that your shell profile file (`~/.zshrc` or `~/.bash_profile`) is configured correctly and sourced.
 - Ensure Homebrew is updated to the latest version if you encounter any installation issues.
 
-This setup provides you with a powerful combination for building applications using Java, Gradle, and Kotlin. Let me know if you need help with anything else!
-
 
